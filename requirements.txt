@@ -3,3 +3,4 @@ streamlit-option-menu==0.3.6
 torch==2.5.0
 transformers==4.47.1
 diffusers==0.32.2
+accelerate
