@@ -1,4 +1,5 @@
 import os
+import torch
 import streamlit as st
 from PIL import Image
 from diffusers import RePaintPipeline, RePaintScheduler
